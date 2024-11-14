@@ -6,6 +6,8 @@ Saves generated QR codes as `.png` files in the `/QR_codes` directory. Automatic
 
 ### Directions
 
+Prerequisites: Python, pip
+
 1. First install requirements:
 
    `pip install requirements.txt`
